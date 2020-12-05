@@ -1,0 +1,11 @@
+sensor_1--->SensorReading{sensorId='sensor_1', timestamp=147258369, temperature=28.123456}
+sensor_2--->SensorReading{sensorId='sensor_2', timestamp=147258370, temperature=8.123456}
+sensor_6--->SensorReading{sensorId='sensor_6', timestamp=147258388, temperature=18.123456}
+sensor_5--->SensorReading{sensorId='sensor_5', timestamp=147258390, temperature=38.123456}
+sensor_100--->SensorReading{sensorId='sensor_100', timestamp=147258399, temperature=48.123456}
+sensor_1--->SensorReading{sensorId='sensor_1', timestamp=147258469, temperature=38.123456}
+sensor_1--->SensorReading{sensorId='sensor_1', timestamp=147258369, temperature=20.123456}
+sensor_1--->SensorReading{sensorId='sensor_1', timestamp=147258569, temperature=48.123456}
+sensor_2--->SensorReading{sensorId='sensor_2', timestamp=147258370, temperature=12.24141}
+sensor_100--->SensorReading{sensorId='sensor_100', timestamp=147258399, temperature=48.1234}
+sensor_3--->SensorReading{sensorId='sensor_3', timestamp=147258399, temperature=68.123456}
